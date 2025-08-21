@@ -1,0 +1,31 @@
+venue,venue_id,park_hr_factor,park_hit_factor
+Coors Field,,1.25,1.12
+Fenway Park,,1.10,1.08
+Yankee Stadium,,1.12,1.02
+Dodger Stadium,,0.96,0.98
+Oracle Park,,0.88,0.96
+Petco Park,,0.92,0.96
+Globe Life Field,,1.05,1.01
+Great American Ball Park,,1.14,1.03
+Guaranteed Rate Field,,1.08,1.00
+T-Mobile Park,,0.93,0.97
+Tropicana Field,,0.90,0.97
+Camden Yards,,1.02,0.99
+Busch Stadium,,0.92,0.97
+Citizens Bank Park,,1.05,1.01
+Rogers Centre,,1.04,1.00
+Target Field,,0.98,0.99
+American Family Field,,1.06,1.02
+Wrigley Field,,1.02,1.03
+Kauffman Stadium,,0.95,1.02
+Minute Maid Park,,1.02,0.99
+Progressive Field,,0.98,1.00
+Angel Stadium,,0.97,0.99
+Oakland Coliseum,,0.88,0.95
+Chase Field,,1.03,1.02
+LoanDepot Park,,0.92,0.97
+Citi Field,,0.95,0.98
+Nationals Park,,1.00,1.00
+PNC Park,,0.94,0.98
+Busch Stadium III,,0.92,0.97
+Truist Park,,1.02,1.01
